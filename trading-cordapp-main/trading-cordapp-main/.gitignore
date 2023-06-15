@@ -1,0 +1,11 @@
+clients/src/main/webapp/node_modules
+clients/src/main/webapp/.eslintcache
+logs/
+clients/logs/
+build/
+clients/build
+contracts/build
+workflows/bin
+contracts/bin
+.gradle
+.idea
